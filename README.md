@@ -1,6 +1,6 @@
 # ¡Hola! Soy Salomón Polanco
 
-Estudiante de [tu carrera] en la Universidad Don Bosco, El Salvador.
+Estudiante de Técnico en Ingeniería en Computación en la Universidad Don Bosco, El Salvador.
 Me apasiona el desarrollo de software y estoy enfocado en construir aplicaciones web completas.
 
 ## 🛠️ Tecnologías
