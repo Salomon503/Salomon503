@@ -30,4 +30,4 @@ Me apasiona el desarrollo de software y estoy enfocado en construir aplicaciones
 
 ## 📊 Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Salomon503&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Salomon503&layout=compact&theme=dark&hide_border=true&langs_count=8)
