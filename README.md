@@ -20,9 +20,6 @@ Me apasiona el desarrollo de software y estoy enfocado en construir aplicaciones
 - **[Proyecto-de-catedra-DSS](https://github.com/Salomon503/Proyecto-de-catedra-DSS)**: proyecto en PHP de un sistema de citas medicas.
 - **[GUIAS-DE-POO-2026](https://github.com/Salomon503/GUIAS-DE-POO-2026)**: ejercicios de programación orientada a objetos en Java.
 
-## 📚 Actualmente aprendiendo
-
-☕ Java y Programación Orientada a Objetos avanzada (herencia, polimorfismo, interfaces y patrones de diseño)
 
 ## 📫 Contacto
 
